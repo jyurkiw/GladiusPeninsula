@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="98D8A2B1-7825-4898-BDE9-BF104E014AA0" Creator="SCRWIN-3.0.0.0" Device="DESKTOP-BI0ES72" Modified="2021-05-19 23:43:26 -0700" ModID="635EF3DE-DA3B-41FB-BDF6-D810400A6E07">
+    <Binder>
+        <BinderItem UUID="2CE0BB6A-93BC-45F9-BEA2-37CD96BB8FCF" Type="DraftFolder" Created="2021-05-19 23:33:41 -0700" Modified="2021-05-19 23:33:41 -0700">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>8FE95B73-16F5-4904-A1EA-783AC5707637</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="8FE95B73-16F5-4904-A1EA-783AC5707637" Type="Folder" Created="2021-05-19 23:33:41 -0700" Modified="2021-05-19 23:35:06 -0700">
+                    <Title>The Principality of Dakon</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="F617E1CA-0613-4969-9B98-E6B9856EC7B6" Type="Text" Created="2021-05-19 23:35:54 -0700" Modified="2021-05-19 23:36:12 -0700">
+                            <Title>Principality Map</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E51D94A5-EFE6-497E-91B6-98D435330291" Type="Folder" Created="2021-05-19 23:38:13 -0700" Modified="2021-05-19 23:38:32 -0700">
+                            <Title>Cities</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="67B74FEE-3239-418D-B3C3-F498AECC2603" Type="Text" Created="2021-05-19 23:37:06 -0700" Modified="2021-05-19 23:37:11 -0700">
+                                    <Title>Dakon</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="29A1A022-F596-4E87-AA11-83FE1B0C10DA" Type="Text" Created="2021-05-19 23:37:14 -0700" Modified="2021-05-19 23:37:19 -0700">
+                                    <Title>Ilse</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="473E801D-66AA-44FC-B5C9-465B9BD2C650" Type="Text" Created="2021-05-19 23:37:19 -0700" Modified="2021-05-19 23:37:22 -0700">
+                                    <Title>Mece</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1507F886-3349-4A00-8D8C-26D5446315CC" Type="Text" Created="2021-05-19 23:37:22 -0700" Modified="2021-05-19 23:37:26 -0700">
+                                    <Title>Nise</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="ED6CC99D-0BD2-4CFA-AF2F-37CF0B36BA0C" Type="Folder" Created="2021-05-19 23:37:26 -0700" Modified="2021-05-19 23:39:18 -0700">
+                            <Title>Towns</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="3B11F181-EEDA-4882-AD4E-14321BAB32EB" Type="Text" Created="2021-05-19 23:39:30 -0700" Modified="2021-05-19 23:39:35 -0700">
+                                    <Title>Barrow Hill</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FC97595A-D34D-4375-912C-554ADB89204F" Type="Text" Created="2021-05-19 23:39:30 -0700" Modified="2021-05-19 23:39:41 -0700">
+                                    <Title>Sebrom</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B555017A-BF91-426E-8CD7-B370F7DB5C8D" Type="Text" Created="2021-05-19 23:39:30 -0700" Modified="2021-05-19 23:39:44 -0700">
+                                    <Title>Talin</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D0A457F4-5189-4A5A-8B38-4CEC0B51B57E" Type="Text" Created="2021-05-19 23:39:31 -0700" Modified="2021-05-19 23:39:47 -0700">
+                                    <Title>Vanos</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="F1C80CB7-21E7-45CB-916C-C34C7C9854BF" Type="Folder" Created="2021-05-19 23:40:00 -0700" Modified="2021-05-19 23:43:22 -0700">
+                            <Title>Forests</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="218B1CE9-4B4F-4E1E-B6AB-4912EC743D48" Type="Text" Created="2021-05-19 23:40:01 -0700" Modified="2021-05-19 23:40:14 -0700">
+                            <Title>Lake Eln</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="539A920F-B665-414E-B5EA-8E9E823F6038" Type="ResearchFolder" Created="2021-05-19 23:33:41 -0700" Modified="2021-05-19 23:33:41 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="724403D6-F8EF-48CE-A1C8-4111243D87E6" Type="TrashFolder" Created="2021-05-19 23:33:41 -0700" Modified="2021-05-19 23:33:41 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="D3A89AC0-10B6-4A32-A34E-DDCA446B92E9" Color="0.941176 0.937255 0.956863">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="4B685DA9-9742-4114-A2E2-9A098A4C2787" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="6ED1A48F-C4CA-4656-A2D4-086F2CBDB3A7">Heading</Type>
+            <Type ID="4DEE8F04-E816-4A5F-897E-A3EDBB2FA0E5">Sub-Heading</Type>
+            <Type ID="D2A26E71-4EFF-44C1-BC37-946348EEF606">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>6ED1A48F-C4CA-4656-A2D4-086F2CBDB3A7</Type>
+            </Folders>
+            <Containers>
+                <Type>D2A26E71-4EFF-44C1-BC37-946348EEF606</Type>
+            </Containers>
+            <Files>
+                <Type>D2A26E71-4EFF-44C1-BC37-946348EEF606</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="1" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="2" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="3" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="4" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="5" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-05-19 23:33:41 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="1" Date="2021-05-19 23:43:26 -0700"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2021-05-19 00:00:00 -0700">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>1</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
