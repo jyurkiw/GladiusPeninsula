@@ -1,0 +1,5 @@
+Powder-Hammer: Warhammer or Maul with a trigger. Can be triggered (on purpose or accidentally) to deal extra damage on a strike.
+
+Rocket-Hammer: Maul that loads primitive rocket motors ignited by wheel lock mechanism. Hits with massive force.
+
+Grenades: Yup, they're a thing. So are rockets.

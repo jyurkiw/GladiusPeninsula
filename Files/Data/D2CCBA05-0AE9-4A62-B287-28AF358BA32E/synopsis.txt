@@ -1,0 +1,3 @@
+Multi-load: Revolvers require multiple reload actions to reload and instead of ignoring multi-load, feats like gunner reload two shots per action instead.
+
+Long-load: The blunderbuss requires an action to properly load that cannot be ignored with a feat.

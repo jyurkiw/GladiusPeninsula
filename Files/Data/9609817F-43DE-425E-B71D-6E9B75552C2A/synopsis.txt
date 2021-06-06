@@ -1,0 +1,3 @@
+Bracing: Rifles can be braced either with a tripod or Y-yoke, or by going prone. Bracing a rifle doubles its effective range (not maximum range).
+
+Misfire: Nat-1 to hit risks a misfire or an explosion that destroys the gun.

@@ -1,0 +1,6 @@
+Flintlock/Wheel Lock Pistol: 20gp
+Flintlock/Wheel Lock Rifle: 40gp
+2-Barrel Flintlock/Wheel Lock Pistol: 50gp
+2-Barrel Flintlock/Wheel Lock Rifle: 100gp
+Blunderbuss: 40gp (AoE attack with DEX save. Ignores multi-attacks)
+

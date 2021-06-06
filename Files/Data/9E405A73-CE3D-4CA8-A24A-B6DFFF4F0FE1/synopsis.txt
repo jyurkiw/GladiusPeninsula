@@ -1,0 +1,4 @@
+3 Magic, Aim action (3 extra dice on hit)
+7 Enhanced Cover (cover bonuses you take cannot be ignored. +dex affects all other saves as reaction, but cannot aim next turn)
+11 Eagle Eye (advantage, n times/long rest when aiming)
+15 Superior Aim (3 more dice on hit [7 total])

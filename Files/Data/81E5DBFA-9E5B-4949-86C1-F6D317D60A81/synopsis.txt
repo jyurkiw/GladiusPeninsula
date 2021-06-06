@@ -1,0 +1,5 @@
+Bayonet: Add to a rifle for 1d6 piercing damage as a spear. If loaded, trigger can be pulled for extra damage
+
+Monster Gun: Man-portable cannon for fighting monsters.
+
+Mortars: Fire explosive cannon-balls in a high arc.

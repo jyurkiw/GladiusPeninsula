@@ -1,32 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="08EB6217-F903-4085-BBDD-FD900719873D">
+            <Title>The Druid Circle</Title>
+            <Synopsis>Ancient and in decline, the Druids and Rangers of the Druid Circle were once leaders of mortals and guided them to live in balance with the old gods of the forests, streams, rivers, plains, oceans, skies, and mountains. Today, the circle is all but broken.</Synopsis>
+        </Document>
+        <Document ID="0B4BB132-BCBE-4EF0-8F9F-55FB836130E3">
+            <Title>Untamable Wilds</Title>
+            <Synopsis>The true wilds of the world aren't just untaimed. They actively fight back against mortal-kind. Wild areas act as magic sponges and absorb power from the leylines eventually forming Genius Loci.
+
+Genius Loci have names and personalities, and wield tremendous power in their wars against mortals.</Synopsis>
+        </Document>
+        <Document ID="0F3C076D-8B52-49F1-8463-F6002461F4FC">
+            <Title>Themes</Title>
+            <Synopsis>Points of Light in the Darkness
+People Are Food
+Man vs Nature
+Untamable Wilds
+</Synopsis>
+        </Document>
         <Document ID="1507F886-3349-4A00-8D8C-26D5446315CC">
             <Title>Nise</Title>
         </Document>
+        <Document ID="1F4A200E-C444-49F5-A0E5-53415034CFAF">
+            <Title>The Hillhallow Forests</Title>
+        </Document>
+        <Document ID="2044FBBE-9CE2-4284-923F-A9A1464CB11F">
+            <Title>The Sedrin Wars</Title>
+            <Synopsis>80 years ago, the Branchan Kingdom to the north of the Eagle Talon mountains was attacked by a massive elven-looking war-host that called themselves &quot;The Children of Taln&quot;.
+
+After getting stalled out in eastern Branchan, the war-host marched through the Bantal pass into the eastern reaches of the Principality and laid siege to the Library of Urn.</Synopsis>
+        </Document>
         <Document ID="218B1CE9-4B4F-4E1E-B6AB-4912EC743D48">
-            <Title>Lake Eln</Title>
+            <Title>Lakes and Waterways</Title>
+            <Synopsis>Lake Eln
+The Hillhallow River</Synopsis>
+        </Document>
+        <Document ID="25F39919-507B-4D86-9341-F7C724400DD0">
+            <Title>The Bardic Colleges</Title>
+            <Synopsis>Masters of song, dance, and music, these powerbrokers trade in information and frequently act as messengers between the various other factions. While they don't wield much power of their own, they are capable of pulling strings that can unbalance everything, and everyone knows it. Only the stupid deny the colleges their asking price.</Synopsis>
         </Document>
         <Document ID="29A1A022-F596-4E87-AA11-83FE1B0C10DA">
             <Title>Ilse</Title>
+            <Synopsis>The Principality's original seat of power.
+The palace was abandoned when the old empire was collapsing and imperial forces marched on the newly independent principality. The first prince was the leader of the separatist forces that led the fight for independence and the capitol was moved to the western fortress after Nice and Mecé both fell.
+Ilse is now known for it's vinyards and wines.</Synopsis>
+        </Document>
+        <Document ID="35DA5155-FDF9-4665-81D3-14D67434E152">
+            <Title>Adventures</Title>
         </Document>
         <Document ID="3B11F181-EEDA-4882-AD4E-14321BAB32EB">
             <Title>Barrow Hill</Title>
         </Document>
+        <Document ID="409DD532-0CEA-41B1-814F-69F0A265413A">
+            <Title>The Council of Mages</Title>
+            <Synopsis>Made up of Wizards, Sorcerers, an Artificers (and Eldrich Knights and Arcane Tricksters), they are the primary faction in power in the Principality.</Synopsis>
+        </Document>
         <Document ID="473E801D-66AA-44FC-B5C9-465B9BD2C650">
             <Title>Mece</Title>
         </Document>
+        <Document ID="483A6EB0-D60C-42ED-B247-3177CD131572">
+            <Title>Genius Loci</Title>
+            <Synopsis>The Hallowhill Forests
+The Forest of Eln
+The Tjierwood
+Lake Eln
+Mt. Xendis
+</Synopsis>
+        </Document>
+        <Document ID="59CA0E72-A68F-4D34-8079-A5792A96F947">
+            <Title>Hamlets</Title>
+            <Synopsis>Warlington
+Norbury
+Hillfar
+Yarlford
+Narthwich
+Carlisle</Synopsis>
+        </Document>
+        <Document ID="5AC26A7C-DE94-485F-BBC7-7E6A96F198C5">
+            <Title>Players</Title>
+        </Document>
+        <Document ID="5F31866E-B605-4493-8F7D-7531AE4F9AF9">
+            <Title>Villages</Title>
+            <Synopsis>Maybrel
+Senison
+Doverbrooke</Synopsis>
+        </Document>
+        <Document ID="64ED5672-B8F9-4092-B9CB-55E95496CF7D">
+            <Title>The Powder Guild</Title>
+            <Synopsis>The sole source of black powder and guns in the Principality, this secretive guild jealously guards its secrets from those who would steal them and usurp their place in society. The Powder Guild is the true faction in power in the Principality.</Synopsis>
+        </Document>
+        <Document ID="67B1A0FC-6352-4CF6-A2AB-30DB7F548EC9">
+            <Title>Equipment</Title>
+            <Synopsis>Guns exist. Guns from the DMG are available at prices cheaper than the DMG prices.
+
+New gun equipment entries?
+New gun rules?</Synopsis>
+        </Document>
         <Document ID="67B74FEE-3239-418D-B3C3-F498AECC2603">
             <Title>Dakon</Title>
+            <Synopsis>Capitol of the Principality.
+Ruled by an elected royal family that sits for life.
+The prince sits between the Mage council and the church of steel and acts as arbiter.
+Current prince favors the Powder Guild over the magic users, and this is causing political tumoral.
+City is built around a star-fort, and the city walls reflect that design.</Synopsis>
+        </Document>
+        <Document ID="67CA8988-B786-43D0-BD95-899B08ADCDDA">
+            <Title>Missionary [Rogue]</Title>
+            <Synopsis>3 Cleric spells, Domain spells, Spread the Word (proselytize/charisma ability check bonus)
+9 Channel Divinity
+13 Protection from Divine Retaliation (Resistance vs divine magic of other faiths)
+17 Divine Smite/Sneak Attack bonus damage trade for spell slot</Synopsis>
+        </Document>
+        <Document ID="70AF3CA8-4FFD-4B6E-B112-A0255C6A3229">
+            <Title>Lignemancer [Wizard]</Title>
+            <Synopsis>2 Produce elixir internally on long rest
+6 Consume elixir to upcast spells without spending higher level spell slots
+10 Tap leylines directly to upcast spells
+14 Consume elixir to cast spells without expending spell slots (cannot upcast)</Synopsis>
+        </Document>
+        <Document ID="740FBABE-1777-4537-ACAF-B67666D187EE">
+            <Title>The Oath of Black Powder [Paladin]</Title>
+            <Synopsis>3 Oath spells, proficiencies, channel divinity (auto-reload all firearm and powder weapons every round for 1 minute)
+7 Smoke Aura
+15 Gun-reaction (pro or negative)
+18 Improved Smoke Aura
+20 Champion of Powder
+
+Smoke, Thunder, and Fire
+
+Rocket hammer, sparking sword, guns</Synopsis>
+            <Text>Smoke. Be ever-present and unmistakable. It is the constant reminder of your presence that allows mortality to flourish.
+Thunder. Be decisive and let none ignore you. Authority that can be disregarded is the downfall of civilization.
+Fire. Burn bright and illuminate the darkness. The enemies of mortal-kind shall not stand against your explosive might.</Text>
+        </Document>
+        <Document ID="78FD5458-A717-4A65-B3D2-CE1B159764DF">
+            <Title>Powder Weapons [Equpiment]</Title>
+            <Synopsis>Powder-Hammer: Warhammer or Maul with a trigger. Can be triggered (on purpose or accidentally) to deal extra damage on a strike.
+
+Rocket-Hammer: Maul that loads primitive rocket motors ignited by wheel lock mechanism. Hits with massive force.
+
+Grenades: Yup, they're a thing. So are rockets.</Synopsis>
+        </Document>
+        <Document ID="80B6AF17-1277-4C44-839A-F1D5349EF72A">
+            <Title>Subclasses</Title>
+            <Synopsis>Fighter: Gunslinger (Exandria)
+Ranger: Sharpshooter
+Cleric: Industry Domain
+Paladin: Oath of Powder
+Wizard: Lignemancer, Pistolmage
+Sorcerer: Leyblood?
+Warlock: Pact of the Line
+Rogue: Missionary, Pistoleer</Synopsis>
+        </Document>
+        <Document ID="81E5DBFA-9E5B-4949-86C1-F6D317D60A81">
+            <Title>Guns [Equipment cont...]</Title>
+            <Synopsis>Bayonet: Add to a rifle for 1d6 piercing damage as a spear. If loaded, trigger can be pulled for extra damage
+
+Monster Gun: Man-portable cannon for fighting monsters.
+
+Mortars: Fire explosive cannon-balls in a high arc.</Synopsis>
+        </Document>
+        <Document ID="84D00708-8A0B-4012-9FF6-177DCE66E0AF">
+            <Title>The Church of Steel</Title>
+            <Synopsis>Dedicated to the advancement of mortal-kind over the wilds and primitive gods that held sway over their ancestors, the Church of Steel is made up of Clerics and Paladins. They are the primary faction in power in the Principality.</Synopsis>
         </Document>
         <Document ID="8FE95B73-16F5-4904-A1EA-783AC5707637">
             <Title>The Principality of Dakon</Title>
         </Document>
+        <Document ID="9609817F-43DE-425E-B71D-6E9B75552C2A">
+            <Title>Guns [Rules cont...]</Title>
+            <Synopsis>Bracing: Rifles can be braced either with a tripod or Y-yoke, or by going prone. Bracing a rifle doubles its effective range (not maximum range).
+
+Misfire: Nat-1 to hit risks a misfire or an explosion that destroys the gun.</Synopsis>
+        </Document>
+        <Document ID="98F57030-9E6C-4ED6-BEB0-5B66809C327B">
+            <Title>Guns [Equipment]</Title>
+            <Synopsis>Flintlock/Wheel Lock Pistol: 20gp
+Flintlock/Wheel Lock Rifle: 40gp
+2-Barrel Flintlock/Wheel Lock Pistol: 50gp
+2-Barrel Flintlock/Wheel Lock Rifle: 100gp
+Blunderbuss: 40gp (AoE attack with DEX save. Ignores multi-attacks)
+
+</Synopsis>
+            <Text>Average people have access to wheel lock and flintlock pistols and rifles.
+The Powder Guild has access to primitive, magical revolvers that self-destruct if un-attuned or a command word is spoken.
+
+#
+Emperor Charles V Double-barrel Wheel Lock Pistol (1540-1545)
+
+#
+George von Reichweins Manual Revolver (1597)
+
+#
+#
+
+Puckle Gun (1718) “early gatling gun”</Text>
+        </Document>
+        <Document ID="9E405A73-CE3D-4CA8-A24A-B6DFFF4F0FE1">
+            <Title>Sharpshooter [Ranger]</Title>
+            <Synopsis>3 Magic, Aim action (3 extra dice on hit)
+7 Enhanced Cover (cover bonuses you take cannot be ignored. +dex affects all other saves as reaction, but cannot aim next turn)
+11 Eagle Eye (advantage, n times/long rest when aiming)
+15 Superior Aim (3 more dice on hit [7 total])</Synopsis>
+        </Document>
+        <Document ID="9E6B5F8B-9463-4038-8BEC-37C3F9BB826D">
+            <Title>Points of Light in the Darkness</Title>
+            <Synopsis>Once you get out of town, even on the road the world is dangerous. Monsters can and do literally spawn out of nothing because of the damage mortal-kind does to the environment.</Synopsis>
+        </Document>
+        <Document ID="9F1B20AB-67F9-4D63-9D63-55CDC05711C9">
+            <Title>The Forest of Eln</Title>
+        </Document>
         <Document ID="B555017A-BF91-426E-8CD7-B370F7DB5C8D">
             <Title>Talin</Title>
         </Document>
+        <Document ID="BDCA5111-3C21-4057-92CE-38B99F96ABE3">
+            <Title>Geo-Politics in the Principality</Title>
+            <Synopsis>Magic-users rule. The Principality is a magocricy in everything but name, and the principal currency of worth is the leylines. Not even gold counts for anything by comparison.</Synopsis>
+        </Document>
+        <Document ID="C8194A72-E952-4EBA-B51E-A2105F65F8CA">
+            <Title>The Leylines</Title>
+            <Synopsis>Fonts of power.
+Flow like rivers.
+Can be condensed into a liquid form called &quot;Elixir&quot;.
+Elixir can be used to case spells with expensive material components.</Synopsis>
+        </Document>
+        <Document ID="CBDEC2CC-281B-4B25-8637-5FB5093CF4C8">
+            <Title>Principality Government</Title>
+            <Synopsis>The Mage Council
+The Church of Steel
+The Druid Circle (fallen out of favor with the people)
+The Bardic Colleges (minor player)
+
+The Powder Guild (new major player. Sole source of black powder)</Synopsis>
+        </Document>
+        <Document ID="CF20D482-93DF-4AAB-984B-15EAAF85422B">
+            <Title>People Are Food</Title>
+            <Synopsis>When Genius Loci wage war against mortal-kind, they find that they can easily mold mortals into new forms that suite their needs.
+
+A common vector of attack from clever Genius Loci is to introduce monsters that prey on mortals and turn them into weapons that will then slay more mortals. Werebeasts, Hags, Vampires, etc are all monsters created by Loci.</Synopsis>
+        </Document>
         <Document ID="D0A457F4-5189-4A5A-8B38-4CEC0B51B57E">
             <Title>Vanos</Title>
+        </Document>
+        <Document ID="D2CCBA05-0AE9-4A62-B287-28AF358BA32E">
+            <Title>Guns [Rules]</Title>
+            <Synopsis>Multi-load: Revolvers require multiple reload actions to reload and instead of ignoring multi-load, feats like gunner reload two shots per action instead.
+
+Long-load: The blunderbuss requires an action to properly load that cannot be ignored with a feat.</Synopsis>
+        </Document>
+        <Document ID="DA09B2C3-3479-4475-BDA4-DC5451D146A6">
+            <Title>The Sedrin Wars (cont...)</Title>
+            <Synopsis>Finally, a young warmaster named Telin Sfar from the continental south reached out to the relatively fresh troops of the peninsula for help. If the peninsula forces could draw the Sedrin's attention, the warmaster's forces would assail their capitol deep in the Talninain Forest.
+
+The people of Branchan and Dakon agreed, and the warmaster ended the war by burning the forest down.</Synopsis>
+        </Document>
+        <Document ID="DEC6CC82-24A9-47A8-B40E-6EBFE5461EA7">
+            <Title>Region History</Title>
         </Document>
         <Document ID="E51D94A5-EFE6-497E-91B6-98D435330291">
             <Title>Cities</Title>
@@ -34,6 +264,13 @@
 Ilse
 Mece
 Nise</Synopsis>
+        </Document>
+        <Document ID="E7BF2394-E790-479A-B8E7-0E645EBB903C">
+            <Title>Guns [Equipment cont...]</Title>
+            <Synopsis>Pepperbox Pistol: 150gp
+Pepperbox Rifle: 300gp
+Manual Flintlock/Wheel Lock Revolvers 
+Manual Flintlock/Wheel Lock Revolver-rifles</Synopsis>
         </Document>
         <Document ID="ED6CC99D-0BD2-4CFA-AF2F-37CF0B36BA0C">
             <Title>Towns</Title>
@@ -48,12 +285,31 @@ Vanos</Synopsis>
 The Forest of Eln
 The Tijerwood</Synopsis>
         </Document>
+        <Document ID="F483D68C-C747-4AE2-B69A-E695F03B9D10">
+            <Title>The Tijerwood</Title>
+        </Document>
         <Document ID="F617E1CA-0613-4969-9B98-E6B9856EC7B6">
             <Title>Principality Map</Title>
-            <Text>#</Text>
+            <Text>#
+
+#
+
+</Text>
+        </Document>
+        <Document ID="FA6883C8-22DD-4877-91D3-8EE593DF1083">
+            <Title>The Sedrin Wars (cont...)</Title>
+            <Synopsis>Over the next 40 years the Children of Taln, or &quot;The Sedrin&quot; as they came to be known, slaughtered fully 3/5ths of the continent's population. Only the Gladius peninsula was spared because of the strategic problems presented by the tall mountains east of the Eagle's Claw.
+
+And even then they were sorely pressed.</Synopsis>
         </Document>
         <Document ID="FC97595A-D34D-4375-912C-554ADB89204F">
             <Title>Sebrom</Title>
+        </Document>
+        <Document ID="FDDB2292-E003-4930-BCC8-0C3CE4FC3243">
+            <Title>Man vs Nature</Title>
+            <Synopsis>Founding new towns surrounded by trees is far more complicated than &quot;just cut down a few trees&quot;.
+
+The more remote the settlement, the more it will depend on the protection and guidance of druids and rangers to keep the genius loci calm.</Synopsis>
         </Document>
     </Documents>
 </SearchIndexes>

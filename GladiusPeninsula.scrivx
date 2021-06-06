@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="98D8A2B1-7825-4898-BDE9-BF104E014AA0" Creator="SCRWIN-3.0.0.0" Device="DESKTOP-BI0ES72" Modified="2021-05-19 23:43:26 -0700" ModID="635EF3DE-DA3B-41FB-BDF6-D810400A6E07">
+<ScrivenerProject Template="No" Version="2.0" Identifier="98D8A2B1-7825-4898-BDE9-BF104E014AA0" Creator="SCRWIN-3.0.1.0" Device="DESKTOP-BI0ES72" Modified="2021-06-06 01:14:45 -0700" ModID="671ADF46-763C-455D-8214-B57D10CA40B9">
     <Binder>
         <BinderItem UUID="2CE0BB6A-93BC-45F9-BEA2-37CD96BB8FCF" Type="DraftFolder" Created="2021-05-19 23:33:41 -0700" Modified="2021-05-19 23:33:41 -0700">
             <Title>Draft</Title>
@@ -21,15 +21,86 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>DEC6CC82-24A9-47A8-B40E-6EBFE5461EA7</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="F617E1CA-0613-4969-9B98-E6B9856EC7B6" Type="Text" Created="2021-05-19 23:35:54 -0700" Modified="2021-05-19 23:36:12 -0700">
+                        <BinderItem UUID="F617E1CA-0613-4969-9B98-E6B9856EC7B6" Type="Text" Created="2021-05-19 23:35:54 -0700" Modified="2021-05-30 18:09:13 -0700">
                             <Title>Principality Map</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CBDEC2CC-281B-4B25-8637-5FB5093CF4C8" Type="Folder" Created="2021-05-22 21:14:00 -0700" Modified="2021-05-22 21:20:11 -0700">
+                            <Title>Principality Government</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="BDCA5111-3C21-4057-92CE-38B99F96ABE3" Type="Text" Created="2021-05-22 21:20:15 -0700" Modified="2021-05-22 21:21:48 -0700">
+                                    <Title>Geo-Politics in the Principality</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="409DD532-0CEA-41B1-814F-69F0A265413A" Type="Text" Created="2021-05-22 21:21:52 -0700" Modified="2021-05-22 21:23:38 -0700">
+                                    <Title>The Council of Mages</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="84D00708-8A0B-4012-9FF6-177DCE66E0AF" Type="Text" Created="2021-05-22 21:23:46 -0700" Modified="2021-05-22 21:25:24 -0700">
+                                    <Title>The Church of Steel</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="64ED5672-B8F9-4092-B9CB-55E95496CF7D" Type="Text" Created="2021-05-22 21:25:33 -0700" Modified="2021-05-22 21:27:07 -0700">
+                                    <Title>The Powder Guild</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="08EB6217-F903-4085-BBDD-FD900719873D" Type="Text" Created="2021-05-22 21:27:12 -0700" Modified="2021-05-22 21:28:31 -0700">
+                                    <Title>The Druid Circle</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="25F39919-507B-4D86-9341-F7C724400DD0" Type="Text" Created="2021-05-22 21:28:39 -0700" Modified="2021-05-22 21:30:27 -0700">
+                                    <Title>The Bardic Colleges</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="E51D94A5-EFE6-497E-91B6-98D435330291" Type="Folder" Created="2021-05-19 23:38:13 -0700" Modified="2021-05-19 23:38:32 -0700">
                             <Title>Cities</Title>
@@ -40,7 +111,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="67B74FEE-3239-418D-B3C3-F498AECC2603" Type="Text" Created="2021-05-19 23:37:06 -0700" Modified="2021-05-19 23:37:11 -0700">
+                                <BinderItem UUID="67B74FEE-3239-418D-B3C3-F498AECC2603" Type="Folder" Created="2021-05-19 23:37:06 -0700" Modified="2021-05-30 15:54:25 -0700">
                                     <Title>Dakon</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -49,7 +120,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="29A1A022-F596-4E87-AA11-83FE1B0C10DA" Type="Text" Created="2021-05-19 23:37:14 -0700" Modified="2021-05-19 23:37:19 -0700">
+                                <BinderItem UUID="29A1A022-F596-4E87-AA11-83FE1B0C10DA" Type="Text" Created="2021-05-19 23:37:14 -0700" Modified="2021-05-30 16:13:50 -0700">
                                     <Title>Ilse</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -125,6 +196,24 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="5F31866E-B605-4493-8F7D-7531AE4F9AF9" Type="Text" Created="2021-05-30 11:12:56 -0700" Modified="2021-05-30 11:14:25 -0700">
+                            <Title>Villages</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="59CA0E72-A68F-4D34-8079-A5792A96F947" Type="Text" Created="2021-05-30 11:13:40 -0700" Modified="2021-05-30 11:14:06 -0700">
+                            <Title>Hamlets</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="F1C80CB7-21E7-45CB-916C-C34C7C9854BF" Type="Folder" Created="2021-05-19 23:40:00 -0700" Modified="2021-05-19 23:43:22 -0700">
                             <Title>Forests</Title>
                             <MetaData>
@@ -133,15 +222,287 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1F4A200E-C444-49F5-A0E5-53415034CFAF" Type="Text" Created="2021-06-05 22:22:13 -0700" Modified="2021-06-05 22:22:35 -0700">
+                                    <Title>The Hillhallow Forests</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9F1B20AB-67F9-4D63-9D63-55CDC05711C9" Type="Text" Created="2021-06-05 22:22:13 -0700" Modified="2021-06-05 22:22:26 -0700">
+                                    <Title>The Forest of Eln</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F483D68C-C747-4AE2-B69A-E695F03B9D10" Type="Text" Created="2021-06-05 22:22:14 -0700" Modified="2021-06-05 22:22:31 -0700">
+                                    <Title>The Tijerwood</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="218B1CE9-4B4F-4E1E-B6AB-4912EC743D48" Type="Text" Created="2021-05-19 23:40:01 -0700" Modified="2021-05-19 23:40:14 -0700">
-                            <Title>Lake Eln</Title>
+                        <BinderItem UUID="218B1CE9-4B4F-4E1E-B6AB-4912EC743D48" Type="Text" Created="2021-05-19 23:40:01 -0700" Modified="2021-06-05 22:47:36 -0700">
+                            <Title>Lakes and Waterways</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5AC26A7C-DE94-485F-BBC7-7E6A96F198C5" Type="Folder" Created="2021-05-22 21:32:01 -0700" Modified="2021-05-22 21:32:11 -0700">
+                            <Title>Players</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>67B1A0FC-6352-4CF6-A2AB-30DB7F548EC9</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="67B1A0FC-6352-4CF6-A2AB-30DB7F548EC9" Type="Folder" Created="2021-05-22 21:32:16 -0700" Modified="2021-05-30 10:26:59 -0700">
+                                    <Title>Equipment</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="98F57030-9E6C-4ED6-BEB0-5B66809C327B" Type="Text" Created="2021-05-30 10:27:02 -0700" Modified="2021-06-05 20:21:48 -0700">
+                                            <Title>Guns [Equipment]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>196,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E7BF2394-E790-479A-B8E7-0E645EBB903C" Type="Text" Created="2021-06-05 20:20:17 -0700" Modified="2021-06-05 20:22:20 -0700">
+                                            <Title>Guns [Equipment cont...]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="81E5DBFA-9E5B-4949-86C1-F6D317D60A81" Type="Text" Created="2021-05-30 11:09:52 -0700" Modified="2021-05-30 11:11:10 -0700">
+                                            <Title>Guns [Equipment cont...]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="D2CCBA05-0AE9-4A62-B287-28AF358BA32E" Type="Text" Created="2021-05-30 10:43:45 -0700" Modified="2021-05-30 10:46:12 -0700">
+                                            <Title>Guns [Rules]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9609817F-43DE-425E-B71D-6E9B75552C2A" Type="Text" Created="2021-05-30 10:46:23 -0700" Modified="2021-05-30 11:10:10 -0700">
+                                            <Title>Guns [Rules cont...]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="78FD5458-A717-4A65-B3D2-CE1B159764DF" Type="Text" Created="2021-05-30 10:52:36 -0700" Modified="2021-05-30 11:11:22 -0700">
+                                            <Title>Powder Weapons [Equpiment]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="80B6AF17-1277-4C44-839A-F1D5349EF72A" Type="Folder" Created="2021-05-22 21:35:34 -0700" Modified="2021-05-30 10:17:54 -0700">
+                                    <Title>Subclasses</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="70AF3CA8-4FFD-4B6E-B112-A0255C6A3229" Type="Text" Created="2021-05-22 22:56:41 -0700" Modified="2021-05-30 10:18:22 -0700">
+                                            <Title>Lignemancer [Wizard]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="740FBABE-1777-4537-ACAF-B67666D187EE" Type="Text" Created="2021-05-23 23:48:18 -0700" Modified="2021-05-30 10:59:21 -0700">
+                                            <Title>The Oath of Black Powder [Paladin]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>353,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9E405A73-CE3D-4CA8-A24A-B6DFFF4F0FE1" Type="Text" Created="2021-05-28 00:34:03 -0700" Modified="2021-05-30 10:18:31 -0700">
+                                            <Title>Sharpshooter [Ranger]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="67CA8988-B786-43D0-BD95-899B08ADCDDA" Type="Text" Created="2021-05-24 00:15:56 -0700" Modified="2021-05-30 10:23:01 -0700">
+                                            <Title>Missionary [Rogue]</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="C8194A72-E952-4EBA-B51E-A2105F65F8CA" Type="Text" Created="2021-05-22 21:50:57 -0700" Modified="2021-05-22 21:52:42 -0700">
+                                    <Title>The Leylines</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="DEC6CC82-24A9-47A8-B40E-6EBFE5461EA7" Type="Folder" Created="2021-05-25 21:39:29 -0700" Modified="2021-05-25 21:50:09 -0700">
+                            <Title>Region History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="2044FBBE-9CE2-4284-923F-A9A1464CB11F" Type="Text" Created="2021-05-25 21:56:04 -0700" Modified="2021-06-06 01:06:38 -0700">
+                                    <Title>The Sedrin Wars</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FA6883C8-22DD-4877-91D3-8EE593DF1083" Type="Text" Created="2021-06-06 01:06:43 -0700" Modified="2021-06-06 01:10:30 -0700">
+                                    <Title>The Sedrin Wars (cont...)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DA09B2C3-3479-4475-BDA4-DC5451D146A6" Type="Text" Created="2021-06-06 01:10:36 -0700" Modified="2021-06-06 01:14:41 -0700">
+                                    <Title>The Sedrin Wars (cont...)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="483A6EB0-D60C-42ED-B247-3177CD131572" Type="Folder" Created="2021-06-05 20:04:22 -0700" Modified="2021-06-05 20:06:16 -0700">
+                            <Title>Genius Loci</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="35DA5155-FDF9-4665-81D3-14D67434E152" Type="Folder" Created="2021-05-30 18:31:56 -0700" Modified="2021-05-30 18:33:46 -0700">
+                    <Title>Adventures</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="0F3C076D-8B52-49F1-8463-F6002461F4FC" Type="Folder" Created="2021-05-30 18:33:50 -0700" Modified="2021-05-30 18:37:51 -0700">
+                            <Title>Themes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="9E6B5F8B-9463-4038-8BEC-37C3F9BB826D" Type="Text" Created="2021-05-30 18:37:54 -0700" Modified="2021-06-05 19:04:23 -0700">
+                                    <Title>Points of Light in the Darkness</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FDDB2292-E003-4930-BCC8-0C3CE4FC3243" Type="Text" Created="2021-05-30 18:37:54 -0700" Modified="2021-06-05 20:02:11 -0700">
+                                    <Title>Man vs Nature</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0B4BB132-BCBE-4EF0-8F9F-55FB836130E3" Type="Text" Created="2021-05-30 18:37:54 -0700" Modified="2021-06-05 20:02:27 -0700">
+                                    <Title>Untamable Wilds</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CF20D482-93DF-4AAB-984B-15EAAF85422B" Type="Text" Created="2021-05-30 18:37:54 -0700" Modified="2021-06-05 20:02:38 -0700">
+                                    <Title>People Are Food</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -161,10 +522,10 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="D3A89AC0-10B6-4A32-A34E-DDCA446B92E9" Color="0.941176 0.937255 0.956863">
+        <Collection Type="Binder" ID="D3A89AC0-10B6-4A32-A34E-DDCA446B92E9" Color="0.164706 0.164706 0.164706">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="4B685DA9-9742-4114-A2E2-9A098A4C2787" Color="0.901961 0.901961 0.980392">
+        <Collection Type="RecentSearch" ID="4B685DA9-9742-4114-A2E2-9A098A4C2787" Color="0.392157 0.392157 0.392157">
             <Title>Search Results</Title>
             <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
         </Collection>
@@ -216,11 +577,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-05-19 23:33:41 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1" Date="2021-05-19 23:43:26 -0700"/>
+        <PreviousSession Words="0" Characters="0" Date="2021-06-06 01:14:45 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-05-19 00:00:00 -0700">
+    <RecentWritingHistory Date="2021-06-06 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>1</DraftCharCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

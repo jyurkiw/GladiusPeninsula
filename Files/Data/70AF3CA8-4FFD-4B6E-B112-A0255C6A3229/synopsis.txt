@@ -1,0 +1,4 @@
+2 Produce elixir internally on long rest
+6 Consume elixir to upcast spells without spending higher level spell slots
+10 Tap leylines directly to upcast spells
+14 Consume elixir to cast spells without expending spell slots (cannot upcast)

@@ -1,0 +1,4 @@
+3 Cleric spells, Domain spells, Spread the Word (proselytize/charisma ability check bonus)
+9 Channel Divinity
+13 Protection from Divine Retaliation (Resistance vs divine magic of other faiths)
+17 Divine Smite/Sneak Attack bonus damage trade for spell slot

@@ -1,0 +1,8 @@
+Fighter: Gunslinger (Exandria)
+Ranger: Sharpshooter
+Cleric: Industry Domain
+Paladin: Oath of Powder
+Wizard: Lignemancer, Pistolmage
+Sorcerer: Leyblood?
+Warlock: Pact of the Line
+Rogue: Missionary, Pistoleer
