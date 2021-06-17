@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="98D8A2B1-7825-4898-BDE9-BF104E014AA0" Creator="SCRWIN-3.0.1.0" Device="DESKTOP-BI0ES72" Modified="2021-06-06 01:14:45 -0700" ModID="671ADF46-763C-455D-8214-B57D10CA40B9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="98D8A2B1-7825-4898-BDE9-BF104E014AA0" Creator="SCRWIN-3.0.1.0" Device="DESKTOP-BI0ES72" Modified="2021-06-16 23:57:21 -0700" ModID="424B739C-AEF6-439D-BC1A-20F0A88F5451">
     <Binder>
         <BinderItem UUID="2CE0BB6A-93BC-45F9-BEA2-37CD96BB8FCF" Type="DraftFolder" Created="2021-05-19 23:33:41 -0700" Modified="2021-05-19 23:33:41 -0700">
             <Title>Draft</Title>
@@ -22,7 +22,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <CorkboardAndOutliner>
-                        <SelectedSubdocumentUUIDs>DEC6CC82-24A9-47A8-B40E-6EBFE5461EA7</SelectedSubdocumentUUIDs>
+                        <SelectedSubdocumentUUIDs>5AC26A7C-DE94-485F-BBC7-7E6A96F198C5</SelectedSubdocumentUUIDs>
                         <CorkboardSettings>
                             <Arrangement>Linear</Arrangement>
                         </CorkboardSettings>
@@ -73,7 +73,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="64ED5672-B8F9-4092-B9CB-55E95496CF7D" Type="Text" Created="2021-05-22 21:25:33 -0700" Modified="2021-05-22 21:27:07 -0700">
+                                <BinderItem UUID="64ED5672-B8F9-4092-B9CB-55E95496CF7D" Type="Text" Created="2021-05-22 21:25:33 -0700" Modified="2021-06-16 23:51:02 -0700">
                                     <Title>The Powder Guild</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -408,8 +408,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="2044FBBE-9CE2-4284-923F-A9A1464CB11F" Type="Text" Created="2021-05-25 21:56:04 -0700" Modified="2021-06-06 01:06:38 -0700">
-                                    <Title>The Sedrin Wars</Title>
+                                <BinderItem UUID="2044FBBE-9CE2-4284-923F-A9A1464CB11F" Type="Text" Created="2021-05-25 21:56:04 -0700" Modified="2021-06-16 23:47:55 -0700">
+                                    <Title>The Sedrain Wars</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -417,8 +417,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="FA6883C8-22DD-4877-91D3-8EE593DF1083" Type="Text" Created="2021-06-06 01:06:43 -0700" Modified="2021-06-06 01:10:30 -0700">
-                                    <Title>The Sedrin Wars (cont...)</Title>
+                                <BinderItem UUID="FA6883C8-22DD-4877-91D3-8EE593DF1083" Type="Text" Created="2021-06-06 01:06:43 -0700" Modified="2021-06-16 23:46:03 -0700">
+                                    <Title>The Sedrain Wars (cont...)</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -426,8 +426,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DA09B2C3-3479-4475-BDA4-DC5451D146A6" Type="Text" Created="2021-06-06 01:10:36 -0700" Modified="2021-06-06 01:14:41 -0700">
-                                    <Title>The Sedrin Wars (cont...)</Title>
+                                <BinderItem UUID="DA09B2C3-3479-4475-BDA4-DC5451D146A6" Type="Text" Created="2021-06-06 01:10:36 -0700" Modified="2021-06-16 23:48:51 -0700">
+                                    <Title>The Sedrain Wars (cont...)</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -577,9 +577,9 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2021-05-19 23:33:41 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-06-06 01:14:45 -0700"/>
+        <PreviousSession Words="0" Characters="0" Date="2021-06-16 23:57:21 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-06-06 00:00:00 -0700">
+    <RecentWritingHistory Date="2021-06-16 00:00:00 -0700">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

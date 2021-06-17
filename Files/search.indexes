@@ -26,10 +26,10 @@ Untamable Wilds
             <Title>The Hillhallow Forests</Title>
         </Document>
         <Document ID="2044FBBE-9CE2-4284-923F-A9A1464CB11F">
-            <Title>The Sedrin Wars</Title>
+            <Title>The Sedrain Wars</Title>
             <Synopsis>80 years ago, the Branchan Kingdom to the north of the Eagle Talon mountains was attacked by a massive elven-looking war-host that called themselves &quot;The Children of Taln&quot;.
 
-After getting stalled out in eastern Branchan, the war-host marched through the Bantal pass into the eastern reaches of the Principality and laid siege to the Library of Urn.</Synopsis>
+After getting stalled out in eastern Branchan, the war-host marched through the Bantal pass into the eastern reaches of the Principality and laid siege to the Library of Urm.</Synopsis>
         </Document>
         <Document ID="218B1CE9-4B4F-4E1E-B6AB-4912EC743D48">
             <Title>Lakes and Waterways</Title>
@@ -88,7 +88,9 @@ Doverbrooke</Synopsis>
         </Document>
         <Document ID="64ED5672-B8F9-4092-B9CB-55E95496CF7D">
             <Title>The Powder Guild</Title>
-            <Synopsis>The sole source of black powder and guns in the Principality, this secretive guild jealously guards its secrets from those who would steal them and usurp their place in society. The Powder Guild is the true faction in power in the Principality.</Synopsis>
+            <Synopsis>The sole source of black powder in the Principality, this secretive guild jealously guards its secrets from those who would steal them and usurp their place in society.
+
+They do not have a monopoly on gun manufacturing, but do have one on black powder. They do have access to better guns than tthe majority of people in the Principality.</Synopsis>
         </Document>
         <Document ID="67B1A0FC-6352-4CF6-A2AB-30DB7F548EC9">
             <Title>Equipment</Title>
@@ -250,10 +252,10 @@ A common vector of attack from clever Genius Loci is to introduce monsters that 
 Long-load: The blunderbuss requires an action to properly load that cannot be ignored with a feat.</Synopsis>
         </Document>
         <Document ID="DA09B2C3-3479-4475-BDA4-DC5451D146A6">
-            <Title>The Sedrin Wars (cont...)</Title>
+            <Title>The Sedrain Wars (cont...)</Title>
             <Synopsis>Finally, a young warmaster named Telin Sfar from the continental south reached out to the relatively fresh troops of the peninsula for help. If the peninsula forces could draw the Sedrin's attention, the warmaster's forces would assail their capitol deep in the Talninain Forest.
 
-The people of Branchan and Dakon agreed, and the warmaster ended the war by burning the forest down.</Synopsis>
+The people of Branchan and Dakon agreed, and the warmaster ended the wars by burning the forest down.</Synopsis>
         </Document>
         <Document ID="DEC6CC82-24A9-47A8-B40E-6EBFE5461EA7">
             <Title>Region History</Title>
@@ -297,7 +299,7 @@ The Tijerwood</Synopsis>
 </Text>
         </Document>
         <Document ID="FA6883C8-22DD-4877-91D3-8EE593DF1083">
-            <Title>The Sedrin Wars (cont...)</Title>
+            <Title>The Sedrain Wars (cont...)</Title>
             <Synopsis>Over the next 40 years the Children of Taln, or &quot;The Sedrin&quot; as they came to be known, slaughtered fully 3/5ths of the continent's population. Only the Gladius peninsula was spared because of the strategic problems presented by the tall mountains east of the Eagle's Claw.
 
 And even then they were sorely pressed.</Synopsis>
